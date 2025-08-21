@@ -246,7 +246,7 @@
         "actions": {
           "default": "{color.action.default.primary.base}"
         },
-        "$value": "#0A3055",
+        "$value": "#6C7C9A",
         "$description": "Basic primary color."
       }
     },
